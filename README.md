@@ -64,6 +64,7 @@ The testbench dumps a `waves.vcd` file you can open in GTKWave.
 ### Simulation
 
 ![Waveform](docs/waveform.png)
+![Circuit diagram](docs/schematic.png)
 
 The testbench checks the accumulator against its own running total after every clock edge. The full run finishes with 516 checks and 0 errors.
 
